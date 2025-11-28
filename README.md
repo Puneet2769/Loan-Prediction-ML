@@ -59,7 +59,7 @@ Trains LightGBM with early stopping and prints validation AUC.
 
 Predicts test probabilities and writes submission_final.csv.
 
-# 📁 Repository structure
+📁 Repository structure
 
 ├── playground_s5e11_pipeline.py   # main script (the code you shared)
 ├── submission_final.csv           # generated submission (after running)
@@ -82,6 +82,7 @@ Save fitted LabelEncoders (or use sklearn.pipeline + OrdinalEncoder) so train/te
 
 # 👤 Author
 Puneet Poddar
+
 Kaggle: https://www.kaggle.com/puneet2769
 
 # 📌 License / Attribution
