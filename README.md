@@ -59,9 +59,8 @@ Trains LightGBM with early stopping and prints validation AUC.
 
 Predicts test probabilities and writes submission_final.csv.
 
-📁 Repository structure
-bash
-Copy code
+# 📁 Repository structure
+
 ├── playground_s5e11_pipeline.py   # main script (the code you shared)
 ├── submission_final.csv           # generated submission (after running)
 ├── train.csv                      # (not included)
@@ -69,6 +68,7 @@ Copy code
 ├── sample_submission.csv          # (not included)
 ├── requirements.txt
 └── README.md
+
 ✅ Quick improvements & next steps
 Use cross-validated target encoding for high-cardinality categoricals.
 
