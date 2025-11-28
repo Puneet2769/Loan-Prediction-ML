@@ -58,7 +58,7 @@ Cleans and encodes features.
 Trains LightGBM with early stopping and prints validation AUC.
 
 Predicts test probabilities and writes submission_final.csv.
-
+```bash
 ## 📁 Repository Structure
 
 MNIST-Digit-Classifier/
@@ -66,7 +66,7 @@ MNIST-Digit-Classifier/
 │── Submission_real_new.csv 
 │── requirements.txt
 │── README.md
-
+```
 ✅ Quick improvements & next steps
 Use cross-validated target encoding for high-cardinality categoricals.
 
